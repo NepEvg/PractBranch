@@ -8,10 +8,10 @@ string ans = Console.ReadLine();
 switch (ans)
 {
     case "+":
-        Console.WriteLine(a+b);
+        
         break;
     case "-":
-
+        Console.WriteLine(a - b);
         break;
     case "*":
 
