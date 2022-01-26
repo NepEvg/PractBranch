@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj": {}
+    "D:\\ТРПО\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj": {}
   },
   "projects": {
-    "D:\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj": {
+    "D:\\ТРПО\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj",
+        "projectUniqueName": "D:\\ТРПО\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj",
         "projectName": "BranchProject",
-        "projectPath": "D:\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj",
-        "packagesPath": "C:\\Users\\307-07\\.nuget\\packages\\",
-        "outputPath": "D:\\PractBranch\\BranchProject\\BranchProject\\obj\\",
+        "projectPath": "D:\\ТРПО\\PractBranch\\BranchProject\\BranchProject\\BranchProject.csproj",
+        "packagesPath": "C:\\Users\\307-08\\.nuget\\packages\\",
+        "outputPath": "D:\\ТРПО\\PractBranch\\BranchProject\\BranchProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\307-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\307-08\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
