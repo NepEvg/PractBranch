@@ -14,7 +14,7 @@ switch (ans)
 
         break;
     case "*":
-        Console.WriteLine(a * b);
+        Console.WriteLine(a * b );
         break;
     case "/":
 
